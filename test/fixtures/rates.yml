@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  ctry_code: MyString
+  zip_code: MyString
+  weight: MyString
+  price: 9.99
+  carrier: MyString
+  experation_date: 2017-11-29
+
+two:
+  ctry_code: MyString
+  zip_code: MyString
+  weight: MyString
+  price: 9.99
+  carrier: MyString
+  experation_date: 2017-11-29
